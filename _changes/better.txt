@@ -1,0 +1,5 @@
+mods/data/better/better.json
+mods/songs/better/Voices.ogg
+mods/songs/better/voices.ogg
+mods/songs/better/Inst.ogg
+mods/songs/better/inst.ogg
